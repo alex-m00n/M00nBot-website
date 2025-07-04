@@ -12,7 +12,7 @@ export default function Header() {
                             <div className="absolute -inset-4 bg-[url('/M00nBotBG.png')] bg-cover w-32 h-32 blur-md"></div>
                             <Image src={'/M00nBot.png'} alt='M00nBot Logo' width={100} height={100} className='inline-flex rounded-full relative z-10' />
                         </div>
-                        <h2 className='text-4xl font-bold inline-flex align-middle mr-4 hover:border-b-2'>&nbsp;M00nBot</h2>
+                        <h2 className='text-4xl font-bold inline-flex align-middle mr-4 hover:border-b-2'>M00nBot</h2>
                     </a>
                     <a href='/cmd' className='hidden lg:inline-block hover:border-b-2'>
                         <p className='blink'>[</p>
