@@ -80,7 +80,7 @@ export default function Home() {
             <FaDiscord className='hover:text-blue-700 transition' />
           </Link>&nbsp;
 
-          <Link href={'https://alexm00n-tv.vercel.app'} target='_blank'>
+          <Link href={'https://alexm00n-dev.vercel.app'} target='_blank'>
             <FaGlobe className='hover:text-primary transition' />
           </Link>
         </h1>

@@ -19,7 +19,7 @@ export default function Header() {
                         <p className='text-2xl mx-2 inline-block'>/cmd</p>
                         <p className='blink'>]</p>
                     </a>
-                    <a href='https://alexm00n-tv.vercel.app' target='_blank' className='hidden lg:inline-block hover:border-b-2'>
+                    <a href='https://alexm00n-dev.vercel.app' target='_blank' className='hidden lg:inline-block hover:border-b-2'>
                         <p className='blink'>[</p>
                         <p className='text-2xl mx-2 inline-block'>/creator</p>
                         <p className='blink'>]</p>
