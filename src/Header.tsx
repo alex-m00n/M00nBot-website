@@ -29,11 +29,6 @@ export default function Header() {
                         <FaTwitch className='text-2xl mx-2 inline-block' />
                         <p className='blink'>]</p>
                     </a>
-                    <a href='https://instagram.com/alex.m00n_' target='_blank' className='hidden lg:inline-block hover:border-b-2'>
-                        <p className='blink'>[</p>
-                        <FaInstagram className='text-2xl mx-2 inline-block' />
-                        <p className='blink'>]</p>
-                    </a>
                     <a href='https://youtube.com/@AlexM00nTV' target='_blank' className='hidden lg:inline-block hover:border-b-2'>
                         <p className='blink'>[</p>
                         <FaYoutube className='text-2xl mx-2 inline-block' />

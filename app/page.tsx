@@ -68,20 +68,16 @@ export default function Home() {
             <FaTwitch className='hover:text-violet-700 transition' />
           </Link>&nbsp;
 
-          <Link href={'https://instagram.com/alex.m00n_'} target='_blank'>
-            <FaInstagram className='hover:text-fuchsia-700 transition' />
-          </Link>&nbsp;
-
           <Link href={'https://youtube.com/@AlexM00nTV'} target='_blank'>
             <FaYoutube className='hover:text-red-700 transition' />
           </Link>&nbsp;
 
-          <Link href={'https://discord.gg/wpXyCHuyb6'} target='_blank'>
+          <Link href={'https://discord.com/users/916694024973340672'} target='_blank'>
             <FaDiscord className='hover:text-blue-700 transition' />
           </Link>&nbsp;
 
           <Link href={'https://alexm00n-dev.vercel.app'} target='_blank'>
-            <FaGlobe className='hover:text-primary transition' />
+            <FaGlobe className='hover:text-sky-700 transition' />
           </Link>
         </h1>
       </center>
